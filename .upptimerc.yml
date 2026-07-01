@@ -23,7 +23,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: WebStatus
   introTitle: "mcenahle.page 状态页面"
-  introMessage: [源代码 GitHub 仓库](https://github.com/mcenahle/webstatus/)
+  introMessage: "[源代码 GitHub 仓库](https://github.com/mcenahle/webstatus/)"
   navbar:
     - title: Status
       href: /
