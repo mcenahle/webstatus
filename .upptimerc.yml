@@ -5,6 +5,9 @@ repo: webstatus # The name of this repository
 sites:
   - name: 主页网站
     url: https://hi.mcenahle.page
+
+  - name: 邮箱系统
+    url: https://mail.mcenahle.page
     
   - name: 博客（梅之夏）
     url: https://blog.mcenahle.page
