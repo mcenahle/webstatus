@@ -27,6 +27,9 @@ sites:
   - name: 图床管理
     url: https://admin.imgbed.mcenahle.page
 
+  - name: 我的 mc 生存存档网站
+    url: https://mss.mcenahle.page
+
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
