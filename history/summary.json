@@ -148,17 +148,17 @@
     "url": "https://mss.mcenahle.page",
     "icon": "https://icons.duckduckgo.com/ip3/mss.mcenahle.page.ico",
     "slug": "mc",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 228,
-    "timeWeek": 613,
-    "timeMonth": 575,
-    "timeYear": 575,
+    "time": 562,
+    "timeDay": 206,
+    "timeWeek": 559,
+    "timeMonth": 562,
+    "timeYear": 562,
     "dailyMinutesDown": {}
   }
 ]
